@@ -1,1 +1,3 @@
 # CustomerTrends
+
+## Data Exploration
