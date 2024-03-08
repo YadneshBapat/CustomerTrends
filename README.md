@@ -5,9 +5,13 @@
 ### Expected Deliverables:
 
 
-## Data Exploration
+## Data Exploration:
 - Excel -> 
 - Jupyter ->
+
+## Project Summary:
+For full report refer to filename.pdf in this repository
+
 
 ## About Dataset:
 - SOURAV BANERJEE, Customer Shopping Trends Dataset on kaggle:
