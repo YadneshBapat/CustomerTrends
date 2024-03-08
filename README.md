@@ -10,7 +10,7 @@
 - Jupyter ->
 
 ## Project Summary:
-For full report refer to filename.pdf in this repository
+<I>For full report refer to filename.pdf in this repository<I> 
 
 
 ## About Dataset:
