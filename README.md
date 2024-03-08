@@ -1,10 +1,14 @@
-# Customer Trends Dataset
-### About the project
+# Customer Trends Dataset (Kaggle)
+## About the project
+### Problem Statement:
+### Objectives:
+### Expected Deliverables:
 
-### Data Exploration
+
+## Data Exploration
 - Excel -> 
 - Jupyter ->
 
-### Dataset Credits
-SOURAV BANERJEE, Customer Shopping Trends Dataset on kaggle:
-https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
+## About Dataset:
+- SOURAV BANERJEE, Customer Shopping Trends Dataset on kaggle:
+  https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
