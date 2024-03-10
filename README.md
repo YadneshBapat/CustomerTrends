@@ -15,7 +15,13 @@ test
 <I>For full report refer to filename.pdf in this repository</I> 
 
 ### About Dataset
-1. Customer ID	
+
+
+
+### <ins>About Dataset:<ins>
+- SOURAV BANERJEE, Customer Shopping Trends Dataset on kaggle:
+  https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
+1. Customer ID	-> 
 2. Age	Gender	
 3. Item Purchased	
 4. Category	Purchase Amount (USD)	
@@ -34,8 +40,3 @@ test
 17. Previous Purchases	
 18. Preferred Payment Method	
 19. Frequency of Purchases
-
-
-### <ins>About Dataset:<ins>
-- SOURAV BANERJEE, Customer Shopping Trends Dataset on kaggle:
-  https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
