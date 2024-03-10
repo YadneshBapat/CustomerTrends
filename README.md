@@ -12,7 +12,7 @@ test
 - Jupyter ->
 
 ### <ins>Project Summary:<ins>
-<I>For full report refer to filename.pdf in this repository<I> 
+<I>For full report refer to filename.pdf in this repository</I> 
 
 ### About Dataset
 1. Customer ID	
